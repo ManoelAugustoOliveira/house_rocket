@@ -1,0 +1,39 @@
+/* Fonte Ultraveloz Sidebar */
+
+.css-10trblm {
+    font-family: "Source Sans Pro", sans-serif;
+    text-align: left;
+}
+
+/* Ocultar Icone Streamlit */
+footer {
+    visibility: hidden;
+}
+
+/* Gráficos*/
+div.plot-container.plotly{
+    background-color: #272731;
+    border: 1px solid #DCDCDC ;
+    border-radius: 5px;
+}
+
+.g-gtitle {
+    font-align: center;
+}
+
+
+.stButton > button:hover {
+    color: #FFFFFF;
+    background-color: #920000;
+    font-size: 15px;
+    height: 40px;
+    width: 60%;
+}
+
+.css-1fv8s86 {
+    text-align: center;
+}
+
+.trace :hover {
+    background-color: #920000;
+}
