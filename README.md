@@ -2,8 +2,10 @@
 Este conjunto de dados contém preços de venda de casas para King County. Inclui casas vendidas entre maio de 2014 e maio de 2015. A análise das informações disponibilizadas tem como objetivo fornecer informações que auxiliem no processe de aquisições dos imoveis e indiquem quais estão em ótimas localização e possuem preço baixo.
 
 fonte:https://www.kaggle.com/datasets/harlfoxem/housesalesprediction
+
 projeto: https://houseanalyticsapp.herokuapp.com/Dashboard
-Estratégia de negócio:
+
+### Estratégia de negócio:
 
 Quanto maior a diferença entre a compra e a venda, maior o lucro da empresa e portanto maior sua receita. Entretanto, as casas possuem muitos atributos que as tornam mais ou menos atrativas aos compradores e vendedores e a localização e o período do ano também podem influenciar os preços.
 
