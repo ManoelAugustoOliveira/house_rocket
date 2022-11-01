@@ -30,6 +30,3 @@ A seguir vamos responder as seguintes perguntas:
 10 - Qual o preço médio levando em conta a situação do imóvel?
 
 11 - Qual a localização dos imóveis?
-#� �h�o�u�s�e�_�r�o�c�k�e�t�
-�
-�
