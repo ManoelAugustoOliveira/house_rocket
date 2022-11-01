@@ -1,5 +1,5 @@
-House Sales in King County, USA
-"""Este conjunto de dados contém preços de venda de casas para King County. Inclui casas vendidas entre maio de 2014 e maio de 2015. A análise das informações disponibilizadas tem como objetivo fornecer informações que auxiliem no processe de aquisições dos imoveis e indiquem quais estão em ótimas localização e possuem preço baixo."""
+### House Sales in King County, USA
+Este conjunto de dados contém preços de venda de casas para King County. Inclui casas vendidas entre maio de 2014 e maio de 2015. A análise das informações disponibilizadas tem como objetivo fornecer informações que auxiliem no processe de aquisições dos imoveis e indiquem quais estão em ótimas localização e possuem preço baixo.
 
 fonte:https://www.kaggle.com/datasets/harlfoxem/housesalesprediction
 
